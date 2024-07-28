@@ -4,17 +4,28 @@ body {
 
 h1 {
     text-align: center;
+color:#c1b2f3;
 }
-
-
- {
-    text-align: center;
-}
-
-
+ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 
 p1 {
-    color: #00be46;
+    color:#00be46;
     font-size: 160%;
+}
+
+
+button1 {
+    background-color:#00beb8;
+}
+
+
+button {
+    background-color:#00be46;
 }

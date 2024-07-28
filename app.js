@@ -1,3 +1,3 @@
 function alertButton() {
-    alert("I'LL FUCKING GET YOU!");
+    alert("GOT YA LOL");
 }
