@@ -2,9 +2,10 @@ body {
     background-color: #be0078;
 }
 
-h1 {
+h1{
     text-align: center;
-color:#c1b2f3;
+    text-decoration: underline;
+    color: #c1b2f3;
 }
  
 .center {
@@ -12,20 +13,38 @@ color:#c1b2f3;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-
+}
 
 .p1 {
-    color:#00be46;
+    color: #00be46;
     font-size: 160%;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
 }
 
 
 .button1 {
-    background-color:#00beb8;
+    background-color: #00beb8;
 }
 
-
-button {
-    background-color:#00be46;
+.button {
+    background-color: #00be46;
 }
