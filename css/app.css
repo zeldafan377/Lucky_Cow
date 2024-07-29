@@ -28,6 +28,7 @@ h1{
     color: white;
     border-radius: 5px;
     margin: 5px;
+    background-color: #00beb8;
 }
 
 button {
@@ -38,13 +39,8 @@ button {
     color: white;
     border-radius: 5px;
     margin: 5px;
-}
-
-
-.button1 {
-    background-color: #00beb8;
-}
-
-.button {
     background-color: #00be46;
 }
+
+
+
