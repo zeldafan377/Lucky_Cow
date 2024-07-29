@@ -1,3 +1,3 @@
 function alertButton() {
-    alert("GOT YA LOL");
+    alert("NEVER GONNA GIVE U UP!!!");
 }
