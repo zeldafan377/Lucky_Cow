@@ -15,11 +15,6 @@ h1{
     width: 50%;
 }
 
-.p1 {
-    color: #00be46;
-    font-size: 160%;
-}
-
 .button1 {
     display: inline-block;
     padding: 10px 20px;
@@ -53,5 +48,58 @@ button {
     background-color: black;
 }
 
+.ytbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:red;
+}
 
+.twbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:#9146ff ;
+}
 
+.disbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: #5865F2;
+}
+
+.tikbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:#25F4EE;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:black;
+}
+
+.cabutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:#00be46;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:black;
+    font-size: 160%;
+}
