@@ -81,15 +81,22 @@ button {
     background-color: #5865F2;
 }
 
-.tikbutton {
+.ttbutton {
     display: inline-block;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    color:#25F4EE;
     border-radius: 5px;
     margin: 5px;
-    background-color:black;
+    background-color: black;
+}
+
+.tikbutton {
+    color: #25F4EE; /* Color for "tik" */
+}
+
+.tokbutton {
+    color: #FE2C55; /* Color for "tok" */
 }
 
 .cabutton {
@@ -109,7 +116,7 @@ button {
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    color:white;
+    color:black;
     border-radius: 5px;
     margin: 5px;
     background-color:#80F5D2;
@@ -127,6 +134,8 @@ button {
 
 .npcc {
 text-align: center;
+background-color: black;
+color:white;
 }
 
 .tpge {
