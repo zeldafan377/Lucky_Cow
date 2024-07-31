@@ -101,5 +101,34 @@ button {
     border-radius: 5px;
     margin: 5px;
     background-color:black;
-    font-size: 160%;
+    font-size:160%;
+}
+
+.tipbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:#80F5D2;
+}
+.pg2button {
+    display: inline-block;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    margin: 5px;
+    background-color:#be0078;
+}
+
+.npcc {
+text-align: center;
+}
+
+.tpge {
+    background-color: black;
 }
