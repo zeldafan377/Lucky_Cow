@@ -171,7 +171,7 @@ body {
 
 #chat_input_send.enabled {
   color: grey;
-  background-color: #7efffa;
+  background-color:#7efffa;
   cursor: pointer;
 }
 
