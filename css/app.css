@@ -1,143 +1,150 @@
 body {
-    background-color: #be0078;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+    background: url(../assets/bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
-h1{
-    text-align: center;
-    text-decoration: underline;
-    color: #c1b2f3;
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: #c1b2f3;
 }
- 
+
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .button1 {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color: #00beb8;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #00beb8;
 }
 
 button {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color: #00be46;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #00be46;
 }
 
 .button2 {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color: red;
-    border-radius: 5px;
-    margin: 5px;
-    background-color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: red;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: black;
 }
 
 .ytbutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color:white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color:red;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: red;
 }
 
 .twbutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color:white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color:#9146ff ;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #9146ff;
 }
 
 .disbutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color:white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color: #5865F2;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #5865f2;
 }
 
 .ttbutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 5px;
-    margin: 5px;
-    background-color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: black;
 }
 
 .tikbutton {
-    color: #25F4EE; /* Color for "tik" */
+  color: #25f4ee; /* Color for "tik" */
 }
 
 .tokbutton {
-    color: #FE2C55; /* Color for "tok" */
+  color: #fe2c55; /* Color for "tok" */
 }
 
 .cabutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color:#00be46;
-    border-radius: 5px;
-    margin: 5px;
-    background-color:black;
-    font-size:160%;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #00be46;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: black;
+  font-size: 160%;
 }
 
 .tipbutton {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color:black;
-    border-radius: 5px;
-    margin: 5px;
-    background-color:#80F5D2;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #80f5d2;
 }
 .pg2button {
-    display: inline-block;
-    padding: 5px 10px;
-    text-align: center;
-    text-decoration: none;
-    color:white;
-    border-radius: 5px;
-    margin: 5px;
-    background-color:#be0078;
+  display: inline-block;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #be0078;
 }
 
 .npcc {
-text-align: center;
-background-color: black;
-color:white;
+  text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .tpge {
-    background-color: black;
+  background-color: black;
 }
